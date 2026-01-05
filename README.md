@@ -161,17 +161,7 @@ Edit `data/user_data.json` to modify user preferences:
 - Ensure all files are properly created and configured
 - Verify your API key has sufficient credits
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 
 
