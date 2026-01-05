@@ -1,0 +1,30 @@
+# =========================
+# Security (CRITICAL)
+# =========================
+.env
+config.py
+
+# =========================
+# Python & Django
+# =========================
+*.pyc
+__pycache__/
+db.sqlite3
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Media (user uploads)
+# =========================
+media/images/*
+!media/images/.gitkeep
+
+# =========================
+# OS files
+# =========================
+.DS_Store
